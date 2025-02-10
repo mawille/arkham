@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mawille/arkham.git/static/css/main.e6c13ad2.css",
+    "main.js": "/mawille/arkham.git/static/js/main.433b422c.js",
+    "static/js/488.09711dfd.chunk.js": "/mawille/arkham.git/static/js/488.09711dfd.chunk.js",
+    "index.html": "/mawille/arkham.git/index.html",
+    "main.e6c13ad2.css.map": "/mawille/arkham.git/static/css/main.e6c13ad2.css.map",
+    "main.433b422c.js.map": "/mawille/arkham.git/static/js/main.433b422c.js.map",
+    "488.09711dfd.chunk.js.map": "/mawille/arkham.git/static/js/488.09711dfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.433b422c.js"
+  ]
+}
